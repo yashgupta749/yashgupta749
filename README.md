@@ -8,7 +8,7 @@
 <h3 align="center">A passionate FullStack developer from India, who is devoted towards learning and evolving,and love technologies</h3> 
 <br>
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/ScripticArnav/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/yashgupta749/count.svg" alt="visitor badge"/></p>
 <br/>
 
 - 🔭 I’m currently working on **honing my skills in JavaScript and web development**
@@ -17,10 +17,7 @@
 
 - 💬 Ask me about **Technologies, Javascript, React, Development, Graphics**
 
-- 📫 How to reach me **arnav007sxn@gmail.com**
-
-- ⚡ Fun fact **I am a Flute Player, Fitness and Travel**
- 
+- 📫 How to reach me **guptayash9808@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,15 +44,15 @@
   <img src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ScripticArnav&show_icons=true&locale=en&layout=compact" alt="ScripticArnav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgupta749&show_icons=true&locale=en&layout=compact" alt="yashgupta749" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ScripticArnav&show_icons=true&locale=en" alt="ScripticArnav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgupta749&show_icons=true&locale=en" alt="yashgupta749" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripticArnav&" alt="ScriptiArnav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta749&" alt="yashgupta749" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arnav-saxena-170116233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-saxena-170116233" height="30" width="40" /></a>
-<a href="https://instagram.com/arnavsxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnavsxn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yash-gupta-26277122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash gupta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yashgupta749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashgupta749" height="30" width="40" /></a>
 </p>
 
