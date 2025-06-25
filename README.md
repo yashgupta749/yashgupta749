@@ -44,11 +44,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgupta749&show_icons=true&locale=en&layout=compact" alt="yashgupta749" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgupta749&show_icons=true&locale=en" alt="yashgupta749" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta749&" alt="yashgupta749" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
